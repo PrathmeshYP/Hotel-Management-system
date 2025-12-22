@@ -29,7 +29,7 @@ It provides a simple and efficient way to manage hotel room bookings, guest chec
 ## 🚀 How to Run the Program
 1. Clone the repository:
 
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/PrathmeshYP/Hotel-Management-system.git
 
 3. Navigate to the project directory:
    
