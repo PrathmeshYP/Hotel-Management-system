@@ -1,9 +1,3 @@
-Below is the **entire combined README.md file**.
-👉 **Just copy everything inside the box and paste it directly into your GitHub repository’s `README.md` file.**
-
----
-
-````markdown
 # 🏨 Hotel Management System (C++)
 
 ## 📌 Project Overview
@@ -34,25 +28,20 @@ It provides a simple and efficient way to manage hotel room bookings, guest chec
 
 ## 🚀 How to Run the Program
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/your-username/your-repository-name.git
-````
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+   
+   cd Hotel-Management-System
+   
+5. Compile the source file:
 
-   ```bash
-   cd your-repository-name
-   ```
-3. Compile the source file:
-
-   ```bash
    g++ hotel_management.cpp -o hotel
-   ```
-4. Run the executable:
 
-   ```bash
+6. Run the executable:
+
    ./hotel
-   ```
 
 ---
 
@@ -68,10 +57,8 @@ It provides a simple and efficient way to manage hotel room bookings, guest chec
 
 ## 📂 Project Structure
 
-```
 ├── hotel_management.cpp
 └── README.md
-```
 
 ---
 
@@ -96,14 +83,7 @@ This project is open-source and intended for learning and educational purposes.
 
 ```
 
----
 
-### ✅ How to paste on GitHub (simple steps)
-1. Open your **GitHub repository**
-2. Click **README.md** (or **Add README**)
-3. Click the ✏️ **Edit** icon
-4. **Paste everything above**
-5. Click **Commit changes**
 
 If you want, I can also:
 - Shorten this README  
