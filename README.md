@@ -73,7 +73,7 @@ It provides a simple and efficient way to manage hotel room bookings, guest chec
 
 ## 👨‍💻 Author
 
-**Prathmesh Yadav Patil**
+**Prathmesh YadavPatil**
 
 ---
 
@@ -85,11 +85,4 @@ This project is open-source and intended for learning and educational purposes.
 
 
 
-If you want, I can also:
-- Shorten this README  
-- Make it **college-submission format**  
-- Add **screenshots section**  
-- Convert project to **file-based storage**
 
-Just tell me 👍
-```
