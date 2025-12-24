@@ -1,4 +1,4 @@
-# 🏨 Hotel Management System (C++)
+# 🏨 Hotel Management System 
 
 ## 📌 Project Overview
 This project is a console-based **Hotel Management System** developed in **C++**.  
